@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090923779071",
+    "project_id": "comment-198712"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090923779071:android:b15f8a8f22382157",
+        "android_client_info": {
+          "package_name": "com.android.comment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090923779071-lmn8pndmr5joq17664b74t6huu5lbdrl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1090923779071-nft3ml8eqbcaiip5f9fepdrlh3tjuvcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.comment",
+            "certificate_hash": "4b9453610e6c25741b5f5ebd6441585dd5907df7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfIZuULw1gI-KPJI9UnyDz2OPgSCIse-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

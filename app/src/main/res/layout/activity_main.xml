@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.android.comment.MainActivity">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="@drawable/border"
+        android:fontFamily="sans-serif-smallcaps"
+        android:onClick="onFacebookClick"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="FB - View All Comments"
+        android:textAllCaps="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border"
+        android:onClick="onYouTubeClick"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="YouTube - View All Comments"
+        android:textAllCaps="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:background="@drawable/border"
+        android:onClick="onFacebookAllClick"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="FB - Download All Comments"
+        android:textAllCaps="false" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border"
+        android:fontFamily="sans-serif-smallcaps"
+        android:onClick="onYouTubeAllClick"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="YouTube - Download All Comments"
+        android:textAllCaps="false" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border"
+        android:onClick="onFacebookDailyClick"
+        android:fontFamily="sans-serif-smallcaps"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="FB - Download Daily Comments"
+        android:textAllCaps="false" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border"
+        android:onClick="onYouTubeDailyClick"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="YouTube - Download Daily Comments"
+        android:textAllCaps="false" />
+
+</LinearLayout>

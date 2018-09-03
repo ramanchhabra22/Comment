@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comment</string>
+    <string name="title_activity_facebook_comment">Facebook Comment</string>
+    <string name="facebook_app_id">1589621004486239</string>
+    <string name="fb_login_protocol_scheme">fb1589621004486239</string>
+    <string name="title_activity_you_tube_comment">YouTube Comment</string>
+</resources>

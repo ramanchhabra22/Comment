@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="border">#D3D4D5</color>
+    <color name="text_teak">#1A4F69</color>
+    <color name="text_primary">#00bfbf</color>
+    <color name="text_2b">#515455</color>
+    <color name="text_2c">#7C7F80</color>
+    <color name="text_2d">#929495</color>
+    <color name="text_2i">#F4F4F4</color>
+    <color name="pop_up">#99929495</color>
+
+</resources>
